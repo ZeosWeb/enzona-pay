@@ -3,7 +3,7 @@
  *Plugin Name: EnzonaPay
  *Plugin URI: https://www.zeosweb.cu/enzonaPay
  *Description:  Módulo para procesar pagos a través de la plataforma Enzona usando WooCommerce.
- *Version: 1.0.18
+ *Version: 1.0.19
  *Author: Zeosweb
  *Author URI: https://www.zeosweb.cu
 

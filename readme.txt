@@ -18,6 +18,9 @@ Plugin de Wordpress para el procesamiento de pagos con ENZONA con integración d
 4. Llenar los datos solicitados para la configuración del plugin en la sección de pagos de WooCommerce.
 
 == Changelog ==
+= 1.0.19 =
+* Agregado el manejo de errores de la API de enzona.
+
 = 1.0.13 =
 * Mejora en el tratamiento con seguridad de los datos que se manejan.
 
